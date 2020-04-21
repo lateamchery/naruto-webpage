@@ -1,0 +1,38 @@
+div{
+    background-color: teal;
+    margin: 0px;
+    position: relative;
+    top:  100px;
+}
+
+h1{
+    margin-block-start: 0px;
+    margin-top: 0px;
+    margin-left: 0px;
+    font-family: cursive;
+}
+.paragraph1{
+    font-family: fantasy;
+}
+body{
+    margin: 0px;
+     text-align: center;
+     background-color: teal;
+}
+ .top-container{
+    text-align: center;
+    height: 930px;
+    width: 100%;
+     
+ }
+
+.top-cloud{
+    position: absolute;
+    padding-right: 50%;
+}
+.bottom-cloud{
+    position: absolute;
+    padding:0%;
+} 
+  
+    
